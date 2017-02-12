@@ -2,8 +2,12 @@
 /* Global Styles */
 
 html{
-	background: url(../images/background.jpg);
-	background-size: 100%;
+	background: url(../images/background.jpg)
+		no-repeat;
+	background-size: cover;
+
+
+
 }
 
 
